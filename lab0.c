@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main(void)
 {
-    printf("Hello World\n");
+    printf("Hello, World!\n");
     int sum = 0;
     int num = 200;
     while(num >0)
